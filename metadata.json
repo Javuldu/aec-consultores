@@ -1,0 +1,6 @@
+{
+  "name": "AEC Consultores | Consultoría y Certificaciones ISO",
+  "description": "Rediseño web integral de AEC Consultores. Consultoría estratégica, auditorías y certificaciones ISO y NCh bajo la metodología Hin Shitsu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
