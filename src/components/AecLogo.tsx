@@ -28,7 +28,7 @@ export const AecLogo: React.FC<AecLogoProps> = ({
   const combinedClasses = `${activeSizeClass} ${className}`.trim();
 
   // Resolve SVG paths
-  const logoSrc = variant === 'white' ? '/logo-blanco.svg' : '/logo azul.svg';
+  const logoSrc = variant === 'white' ? 'logo-blanco.svg' : 'logo azul.svg';
 
   // Primary rendering using <img> for maximum browser & iframe compatibility (avoids SVG flexbox collapse)
   if (showText && !imgError) {

@@ -119,7 +119,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             aria-label="AEC Consultores - Ir a Inicio"
           >
             <img 
-              src="/logo azul.svg" 
+              src="logo azul.svg" 
               alt="AEC Consultores" 
               className="h-11 sm:h-12 md:h-14 w-auto object-contain transition-transform group-hover:scale-[1.02]" 
             />

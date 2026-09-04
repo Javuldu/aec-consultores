@@ -64,7 +64,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenDiagnostic, onOpenQuote, o
                 className="text-left group inline-block"
                 aria-label="AEC Consultores - Ir a Inicio"
               >
-                <img src="/aec logo b.svg" alt="AEC Consultores" className="h-12 w-auto group-hover:opacity-90 transition-opacity" />
+                <img src="aec logo b.svg" alt="AEC Consultores" className="h-12 w-auto group-hover:opacity-90 transition-opacity" />
               </button>
             </div>
 
